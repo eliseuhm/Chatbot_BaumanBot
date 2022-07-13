@@ -1,6 +1,6 @@
 # 📦 Chatbot: BaumanBot
 
-Um Chatbot que dispara frases do sociólogo e filósofo polonês, Zygmunt Bauman.
+Um Chatbot que dispara frases do sociólogo e filósofo polonês, Zygmunt Bauman (com referências a Dark Souls).
 
 ## 🚀 Informações úteis
 
